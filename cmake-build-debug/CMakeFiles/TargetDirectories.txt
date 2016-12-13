@@ -1,0 +1,3 @@
+/Users/wangning/Code/github/C-CodeBase/C-CodeBase/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wangning/Code/github/C-CodeBase/C-CodeBase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wangning/Code/github/C-CodeBase/C-CodeBase/cmake-build-debug/CMakeFiles/HelloWorld.dir
